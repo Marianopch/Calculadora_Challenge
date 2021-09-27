@@ -1,0 +1,80 @@
+#appBg {
+    height: 420px;
+    width: 300px;
+    background-color: white;
+   
+    
+    
+}
+
+#appBg form{
+    height: 130%;
+    width: 130%; 
+    margin-left: 550px;
+    margin-top: 40px;
+   
+
+    
+}
+
+
+
+#res{
+   width: 99%;
+   height: 16,5%;
+   font-family: 'roboto', sans-serif;
+   cursor: default;
+   background-color: black;
+   color: white;
+   padding: 15px;
+   text-align: right;
+   font-size: 50px;
+   border: solid ;
+   font-weight: bold;
+   outline: none;
+   
+}
+
+form input.btnCalcu1{
+   width: 24%;
+   height: 16,5%;
+   margin: 1px;
+   cursor: pointer;
+   font-family: 'roboto', sans-serif;
+   font-weight: bold;
+   font-size: 50px;
+   color: darkslategray;
+   background-color: thistle;
+   padding: 18px;
+   border: white 0px;
+}
+
+form input.btnCalcu2{
+   width: 25%;
+   height: 16,5%;
+   margin: 1px;
+   cursor: pointer;
+   font-family: 'roboto', sans-serif;
+   font-weight: bold;
+   font-size: 50px;
+   color: white;
+   background-color: orange;
+   padding: 18px;
+   border: white 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+}
+
+form input.btnCalcu3{
+   width: 73%;
+   height: 16,5%;
+   margin: 1px;
+   cursor: pointer;
+   font-family: 'roboto', sans-serif;
+   font-weight: bold;
+   font-size: 50px;
+   color: darkslategray;
+   background-color: thistle;
+   padding: 18px;
+   border: white 0px;
+}
